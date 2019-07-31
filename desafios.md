@@ -12,3 +12,7 @@
 ### 2. Aula 002
 
 [Alinhar Horizontalmente o Header -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)
+
+### 3. Aula 003
+
+[Inserir Botão Comprar e ALinhar Verticalmente no Centro -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)
