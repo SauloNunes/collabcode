@@ -2,7 +2,7 @@
 
 1. Aula 001
 
-<img src="src/imgs/hyper.png" alt="JavaScript" width="450" height="200">
+<img src="src/imgs/Hyper.PNG" alt="Hyper" width="450" height="200">
 
 [Repositório](https://github.com/SauloNunes/collabcode)
 
