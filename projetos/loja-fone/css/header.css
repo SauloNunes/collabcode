@@ -1,8 +1,15 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
 header {
   background-color: #e24647;
   color: #ffffff;
   overflow: hidden;
-  margin: 0 115px;
+  margin: 115px;
   padding: 55px 60px 95px;
 }
 
@@ -21,4 +28,15 @@ nav {
 a {
   text-decoration: none;
   color: inherit;
+  margin-left: 28px;
+}
+
+button {
+  font-family: "Segoe UI", "Roboto", sans-serif;
+  font-size: 21px;
+  color: #ffffff;
+  width: 199px;
+  height: 60px;
+  border: solid 2px #252c41;
+  background-color: #252c41;
 }
