@@ -1,12 +1,27 @@
 header {
   background-color: #e24647;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1,
+a {
+  color: #ffffff;
 }
 
 h1 {
-  color: #ffffff;
+  font-size: 40px;
+  font-family: "Arial";
+  text-align: left;
 }
 
 a {
-  color: #ffffff;
+  font-size: 21px;
+  font-family: "SegoeUI";
   text-decoration: none;
+}
+
+nav {
+  text-align: right;
 }
