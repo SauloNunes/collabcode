@@ -20,6 +20,16 @@
   width: 218px;
   line-height: 56px;
   margin-right: 38px;
+  cursor: pointer;
+}
+
+.button-store.-second:hover {
+  color: red;
+}
+
+.button-store:hover {
+  background-color: #ffffff;
+  color: blue;
 }
 
 .button-store > button,

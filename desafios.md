@@ -29,3 +29,7 @@
 ### 6. Aula 006
 
 [Alinhamento dos Botoes, Adicionado Estrelas e Busca -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)
+
+### 7. Aula 007
+
+[Aplicado Hover, Cursor e Img Coracao -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)

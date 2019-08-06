@@ -5,5 +5,12 @@
   vertical-align: middle;
   border-top-right-radius: 150px;
   border-bottom-right-radius: 150px;
-  margin-right: 156px;
+  margin-right: 77px;
+}
+
+.photo-heart {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 47px;
+  margin-top: 37px;
 }
