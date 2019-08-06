@@ -25,3 +25,7 @@
 ### 5. Aula 005
 
 [Adicionado Imagem do Produto e Alinhamento Descricao -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)
+
+### 6. Aula 006
+
+[Alinhamento dos Botoes, Adicionado Estrelas e Busca -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)
