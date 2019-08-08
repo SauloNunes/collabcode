@@ -39,8 +39,23 @@
   text-decoration: none;
   color: inherit;
   margin-right: 60px;
+  position: relative;
 }
 
 .header-store .action.-last {
   margin-right: 0px;
+}
+
+.header-store .action::before {
+  content: "";
+  position: absolute;
+  bottom: -8px;
+  width: 0px;
+  height: 2px;
+  transition: width 250ms ease-in-out;
+  background-color: #fff;
+}
+
+.header-store .action:hover::before {
+  width: 100%;
 }
