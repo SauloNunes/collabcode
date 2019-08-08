@@ -33,3 +33,7 @@
 ### 7. Aula 007
 
 [Aplicado Hover, Cursor e Img Coracao -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)
+
+### 8. Aula 008
+
+[Aplicado Animacao -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)
