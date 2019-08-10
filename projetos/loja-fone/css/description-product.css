@@ -16,19 +16,17 @@
   cursor: pointer;
 }
 
-.description-product > .item.-heart:hover {
-  transform: scale(1.3) translateX(-100%);
-  transition: all 600ms linear;
-}
-
 .description-product > .item.-star {
   margin-bottom: 10px;
   cursor: pointer;
 }
 
-.description-product > .item.-star .starpic:hover {
+.description-product .icon {
+  transition: transform 300ms linear;
+}
+
+.description-product .icon:hover {
   transform: scale(1.2);
-  transition: all 600ms linear;
 }
 
 .description-product > .item.-star + .item {

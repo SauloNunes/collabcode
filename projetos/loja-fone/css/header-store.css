@@ -29,6 +29,7 @@
   color: inherit;
   padding: 8px;
   margin-right: 65px;
+  vertical-align: bottom;
 }
 
 .header-store [type="search"]::placeholder {
@@ -36,26 +37,32 @@
 }
 
 .header-store .action {
+  display: inline-block;
   text-decoration: none;
   color: inherit;
   margin-right: 60px;
   position: relative;
+  padding-bottom: 8px;
+  /* border-bottom: 1px solid transparent; */
 }
 
 .header-store .action.-last {
   margin-right: 0px;
 }
 
-.header-store .action::before {
+.header-store .action:after {
   content: "";
+  height: 1px;
+  width: 100%;
+  background-color: #ffffff;
   position: absolute;
-  bottom: -8px;
-  width: 0px;
-  height: 2px;
-  transition: width 250ms ease-in-out;
-  background-color: #fff;
+  bottom: 0;
+  left: 0;
+  transform: scaleX(0);
+  transition: transform 300ms linear;
+  transform-origin: center left;
 }
 
-.header-store .action:hover::before {
-  width: 100%;
+.header-store .action:hover:after {
+  transform: scaleX(1);
 }
