@@ -37,3 +37,11 @@
 ### 8. Aula 008
 
 [Aplicado Animacao -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)
+
+### 9. Aula 009
+
+[Aplicado Responsividade -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)
+
+### 10. Aula 010
+
+[Adicionado Responsividade ao Texto e as Imagens -LojaFone](https://saulonunes.github.io/collabcode/projetos/loja-fone/)
